@@ -77,5 +77,5 @@ Fork this repo, make changes, and create a pull request! Let's build and grow to
 
 🔗 Connect with Me
 📧 Instagram: https://www.instagram.com/ballu_sharma.coder/
-💼 LinkedIn: Ballu Sharma
+💼 LinkedIn: https://www.linkedin.com/in/ballu-sharma-a4a685276/
 💻 GitHub: github.com/BalluSharma
